@@ -2,7 +2,7 @@
 
 ### To test:
 1. git clone into a directory
-2. copy the .exmaple.env file to .env
+2. copy the .example.env file to .env
 3. fill out the .env file with your own values
 4. run node command `node --env-file=.env app.js --name {name to search for}`
 
